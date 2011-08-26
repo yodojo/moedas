@@ -1,0 +1,4 @@
+1- Preço deve ser menor que 1 < valor < 50000.
+2- A quantidade de moedas distintas deve ser 1 < moedasDistintas <= 100.
+3- A quantidade de valores de moedas distintas deve ser igual a moedasDistintas;
+4- Deve retornar quantidade mínima de moedas necessárias para completar o valor;
